@@ -3,7 +3,8 @@
 <body>
 <center> <h1>FastBoard</h1>
 <?php
-echo date("Y"); 
+echo date("Y");
+echo ;
 $messages = array(
     'The best of best PHP skillz.',
     'Follow me on github.',
