@@ -6,7 +6,7 @@
 </body>
 </html>
 <?php 
-echo <center> date("D M d, Y G:i a"); 
+echo date("D M d, Y G:i a"); 
 ?>
 
 <body>
