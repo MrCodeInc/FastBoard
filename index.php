@@ -1,6 +1,21 @@
 <html>
 <title>FastBoard</title>
 <body>
+
+So simple with this function:
+
+With PHP
+
+<?php
+
+function random_bg() {
+    return strtoupper(dechex(rand(0,10000000)));
+}
+
+?>
+
+<body style="background-color: #<?php echo random_bg();?>">
+
 <center> <h1>FastBoard</h1>
 <?php
 echo date("Y");
