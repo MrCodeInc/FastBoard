@@ -3,7 +3,7 @@
 <body>
 <center> <h1>FastBoard</h1>
 <?php
-echo date("M D Y"); 
+echo date("Y"); 
 ?>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
