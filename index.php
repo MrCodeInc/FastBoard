@@ -1,11 +1,10 @@
-<?php
-echo date("d.m.y"); 
-?>
-
 <html>
 <title>FastBoard</title>
 <body>
 <center> <h1>FastBoard</h1>
+<?php
+echo date("d.m.y"); 
+?>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
 <p> </p>
