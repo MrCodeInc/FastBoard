@@ -25,7 +25,7 @@ $messages = array(
     'Follow me on github.',
     'Gotta go fast......board.',
     'Gangsta PHP skillz.',
-    'Hosted on heroku!',
+    'Built on heroku!',
     'Swag.'
 );
 
