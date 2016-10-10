@@ -12,7 +12,10 @@ $messages = array(
 
     'MrCodeInc for president 2016',
     'Follow me on github.',
-    'Gotta go fast......board.'
+    'Gotta go fast......board.',
+    'Gangsta PHP skillz.',
+    'Hosted on heroku!',
+    'Swag.'
 );
 
 echo $messages[rand(0, count($messages) - 1)];
