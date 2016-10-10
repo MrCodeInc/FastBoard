@@ -9,11 +9,11 @@ echo date("Y");
 <?php
 
 $messages = array(
-    'The best of best PHP skillz.',
-    'Follow me on github.',
+    'The best of best PHP skillz.'
+    'Follow me on github.'
     'Chillin like a villain.'
-    'MrCodeInc for president 2016',
-    'I'M READY PROMOTION! I'M READY! PROMOTION! I'M READY! PROMOTION!',
+    'MrCodeInc for president 2016'
+    'I'M READY PROMOTION! I'M READY! PROMOTION! I'M READY! PROMOTION!'
     'Gotta go fast......board'
 );
 
