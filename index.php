@@ -1,15 +1,11 @@
+<?php
+echo date("d.m.y"); 
+?>
+
 <html>
 <title>FastBoard</title>
 <body>
 <center> <h1>FastBoard</h1>
-<p> </p>
-</body>
-</html>
-<?php 
-echo date("D M d, Y G:i a"); 
-?>
-
-<body>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
 <p> </p>
