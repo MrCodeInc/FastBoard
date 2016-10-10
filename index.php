@@ -4,7 +4,10 @@
 <center> <h1>FastBoard</h1>
 <?php
 echo date("Y");
-echo ;
+?>
+<p> </p>
+<?php
+
 $messages = array(
     'The best of best PHP skillz.',
     'Follow me on github.',
