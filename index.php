@@ -21,7 +21,7 @@ echo date("Y");
 
 $messages = array(
 
-    'MrCodeInc for president 2016',
+    'MrCodeInc for president of the internet!',
     'Follow me on github.',
     'Gotta go fast......board.',
     'Gangsta PHP skillz.',
