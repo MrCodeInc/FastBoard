@@ -14,7 +14,7 @@ $messages = array(
     'Chillin like a villain.'
 );
 
-echo $messages[rand(0, count($messages) - 2)];
+echo $messages[rand(0, count($messages) - 1)];
 ?>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
