@@ -9,12 +9,10 @@ echo date("Y");
 <?php
 
 $messages = array(
-    'The best of best PHP skillz.'
-    'Follow me on github.'
-    'Chillin like a villain.'
-    'MrCodeInc for president 2016'
-    'I'M READY PROMOTION! I'M READY! PROMOTION! I'M READY! PROMOTION!'
-    'Gotta go fast......board'
+
+    'MrCodeInc for president 2016',
+    'Follow me on github.',
+    'Gotta go fast......board.'
 );
 
 echo $messages[rand(0, count($messages) - 1)];
