@@ -11,10 +11,10 @@ echo date("Y");
 $messages = array(
     'The best of best PHP skillz.',
     'Follow me on github.',
-    'Chillin like a villains.'
+    'Chillin like a villain.'
 );
 
-echo $messages[rand(1, count($messages) - 2)];
+echo $messages[rand(0, count($messages) - 2)];
 ?>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
