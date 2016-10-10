@@ -4,6 +4,13 @@
 <center> <h1>FastBoard</h1>
 <?php
 echo date("Y"); 
+$messages = array(
+    'The best of best PHP skillz.',
+    'Follow me on github.',
+    'Chillin like a villains.'
+);
+
+echo $messages[rand(0, count($messages) - 1)];
 ?>
 <p> </p>
 <center> <a href="https://github.com/">Github</a>
