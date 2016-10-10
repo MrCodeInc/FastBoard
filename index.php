@@ -2,10 +2,6 @@
 <title>FastBoard</title>
 <body>
 
-So simple with this function:
-
-With PHP
-
 <?php
 
 function random_bg() {
