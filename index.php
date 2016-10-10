@@ -21,9 +21,9 @@ $messages = array(
 echo $messages[rand(0, count($messages) - 1)];
 ?>
 <p> </p>
-<center> <a href="https://github.com/">Github</a>
-<p> </p>
 <center> <a href="https://google.com/">Google</a>
+<p> </p>
+<center> <a href="https://github.com/">Github</a>
 <p> </p>
 <center> <a href="https://youtube.com/">YouTube</a>
 <p> </p>
